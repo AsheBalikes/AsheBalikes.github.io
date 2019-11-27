@@ -1,11 +1,11 @@
 # Site settings
-author: Ashley Balikes
-title: 
+author: Ashe Balikes
+title: Dat Ashe
 header-img: img/home-bg.png
 email: ashleybalikes@gmail.com
-copyright_name: Ashley Balikes
+copyright_name: Ashe Balikes
 description: > # this means to ignore newlines until "baseurl:"
-  
+  From Designer to Developer
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: 
 github_username:  AsheBalikes
